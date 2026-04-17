@@ -1,0 +1,9 @@
+# Core Data Science Libraries
+pandas>=3.0.5
+numpy>=2.4.4
+openpyxl>=3.1.5
+
+# Jupyter
+jupyter>=1.1.1
+ipykernel>=7.2.0
+
